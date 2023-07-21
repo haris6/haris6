@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Haris Akram
-- 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in React Native Development
+- 🌱 I’m currently learning to grow
 - 📫 How to reach me : harisakram593@gmail.com
